@@ -1,3 +1,5 @@
+import mefunc.MyRecur;
+
 import static mybackpack.ResultBacckPack.backpackMaxWeigth;
 import static mybackpack.ResultBacckPack.resultItemInBackpak;
 

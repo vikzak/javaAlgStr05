@@ -1,3 +1,5 @@
+package mefunc;
+
 public class MyRecur {
     public long numberLevel(long number, int level){
         if (level == 0) return 1; // чисто математика
