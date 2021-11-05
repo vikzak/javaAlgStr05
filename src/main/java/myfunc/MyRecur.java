@@ -1,4 +1,4 @@
-package mefunc;
+package myfunc;
 
 public class MyRecur {
     public long numberLevel(long number, int level){
